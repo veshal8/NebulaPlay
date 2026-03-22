@@ -29,7 +29,10 @@ Make sure you have installed:
 * Rust (Cargo)
 * Flutter SDK
 * Git
-
+* MPV Player – Required for video playback
+  - Windows: Download from https://mpv.io/installation/ and add to PATH
+  - Linux: sudo apt install mpv
+  - macOS: brew install mpv
 ---
 
 ## 🔑 Environment Variables (REQUIRED)
@@ -132,5 +135,9 @@ Planned features and enhancements:
 
 This project is for educational purposes only.
 Users are responsible for how they use external APIs and services.
+
+---
+
+* Ensure MPV is installed and accessible from your system PATH for playback to work.
 
 ---
