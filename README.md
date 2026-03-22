@@ -102,7 +102,6 @@ flutter run -d windows
 
 ## ⚠️ Notes
 
-* Android requires Android SDK installed
 * Backend must be running before frontend
 * API keys are NOT included for security reasons
 
