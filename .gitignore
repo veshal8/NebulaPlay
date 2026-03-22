@@ -1,0 +1,17 @@
+# Rust
+target/
+
+# Flutter / Dart
+.dart_tool/
+.build/
+build/
+
+# Node (if any)
+node_modules/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
