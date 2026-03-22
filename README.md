@@ -15,7 +15,7 @@ A full-stack media streaming app with a Rust backend and Flutter frontend.
 ## 📦 Project Structure
 
 ```
-NebulaPlay-v2/
+NebulaPlay/
 ├── backend/   # Rust API server
 ├── frontend/  # Flutter app
 ```
