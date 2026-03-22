@@ -106,6 +106,7 @@ flutter run -d windows
 
 * Backend must be running before frontend
 * API keys are NOT included for security reasons
+* Ensure MPV is installed and accessible from your system PATH for playback to work
 
 ---
 
@@ -135,9 +136,5 @@ Planned features and enhancements:
 
 This project is for educational purposes only.
 Users are responsible for how they use external APIs and services.
-
----
-
-* Ensure MPV is installed and accessible from your system PATH for playback to work.
 
 ---
