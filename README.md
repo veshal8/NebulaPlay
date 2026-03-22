@@ -30,7 +30,6 @@ Make sure you have installed:
 * Flutter SDK
 * Git
 
-
 ---
 
 ## 🔑 Environment Variables (REQUIRED)
@@ -112,6 +111,20 @@ flutter run -d windows
 * Backend: Rust
 * Frontend: Flutter
 * APIs: TMDB, Real-Debrid
+
+---
+
+## 🚧 Future Improvements / Roadmap
+
+Planned features and enhancements:
+
+* 📺 Google TV / Android TV support (Play Store release)
+* 🔐 In-app API key / token configuration (no manual setup required)
+* 🎬 Improved content catalogue (Netflix-style browsing experience)
+* 👤 User profiles support
+* 🤖 Recommendation system based on watch history and preferences
+* ⏱️ Resume playback (continue watching from last timestamp)
+* 🎯 Smarter UI/UX with personalized content discovery
 
 ---
 
