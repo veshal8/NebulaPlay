@@ -30,9 +30,6 @@ Make sure you have installed:
 * Flutter SDK
 * Git
 
-Optional (for Android):
-
-* Android Studio + SDK
 
 ---
 
